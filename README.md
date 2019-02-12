@@ -38,11 +38,11 @@ I have Exposed Three APIs :
 
 ## ScreenShots
 
-    localhost:8080/player
+-    localhost:8080/player
 
 Request :
-![Request Image](https://photos.app.goo.gl/D7ACT1quyZ9JYcDs9)
+[https://photos.app.goo.gl/7syVBf4aG2aHMtjv6](https://photos.app.goo.gl/7syVBf4aG2aHMtjv6)
 
 Response : 
-![Response Image](https://photos.app.goo.gl/7syVBf4aG2aHMtjv6)
+https://photos.app.goo.gl/7syVBf4aG2aHMtjv6
                
