@@ -34,7 +34,7 @@ I have Exposed Three APIs :
  9. Voila!!
 
 > In case of queries please feel free to drop me a message or add a comment
-> Please Contribute by forking this Project
+> Please Contribute by forking the Project
 
 ## ScreenShots
 
